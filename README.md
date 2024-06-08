@@ -15,7 +15,7 @@ Verwenden Sie Kundendaten, um verschiedene Kundensegmente zu identifizieren. Die
 
 1. Klonen Sie das Repository:
     ```bash
-    git clone https://github.com/your-username/Kundensegmentierung.git
+    git clone https://github.com/FloZewi/Kundensegmentierung.git
     cd Kundensegmentierung
     ```
 
